@@ -3,6 +3,11 @@
 .black-text {
   color: black;
 }
+.black:visited,
+.text-black:visited,
+.black-text:visited {
+  color: black;
+}
 .black-background,
 .background-black {
   background-color: black;
@@ -32,6 +37,14 @@
 .text-red,
 .red-text {
   color:red
+}
+.red:visited,
+.text-red:visited,
+.red-text:visited,
+.red a:visited,
+.text-red a:visited,
+.red-text a:visited {
+  color: red;
 }
 .red-background,
 .background-red {
