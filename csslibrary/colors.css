@@ -1,0 +1,58 @@
+.black,
+.text-black,
+.black-text {
+  color: black;
+}
+.black-background,
+.background-black {
+  background-color: black;
+}
+
+.white,
+.text-white,
+.white-text {
+  color: white;
+}
+.white-background,
+.background-white {
+  background-color: white;
+}
+
+.blue,
+.text-blue,
+.blue-text {
+  color: blue;
+}
+.blue-background,
+.background-blue {
+  background-color: blue;
+}
+
+.red,
+.text-red,
+.red-text {
+  color:red
+}
+.red-background,
+.background-red {
+  background-color: red;
+}
+
+.yellow,
+.text-yellow,
+.yellow-text {
+  color: yellow
+}
+.yellow-background,
+.background-yellow {
+  background-color: yellow;
+}
+.green,
+.green-text,
+.text-green {
+  color: green;
+}
+.green-background,
+.background-green {
+  background-color: green;
+}

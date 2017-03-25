@@ -1,0 +1,16 @@
+.mlc-display--block,
+.next-to-eachother {
+  display: inline-block;
+}
+
+.mlc-display--inline-block {
+  display: inline-block;
+}
+
+.mlc-display--none {
+  display: none;
+}
+
+.mlc-display--flex {
+  display: flex;
+}
