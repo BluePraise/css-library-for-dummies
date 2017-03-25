@@ -1,0 +1,14 @@
+.full-border {
+  border-width: 1px;
+}
+.thick-border {
+  border-width: 2px solid;
+}
+
+.border-bottom {
+  border-bottom: solid;
+}
+
+.border-white {
+  border-color: white;
+}

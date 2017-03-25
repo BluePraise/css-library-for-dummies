@@ -32,6 +32,22 @@
 .background-blue {
   background-color: blue;
 }
+.lightblue,
+.text-lightblue,
+.blue-lighttext,
+lightblue:visited,
+.text-lightblue:visited,
+.lightblue-text:visited,
+.lightblue a:visited,
+.text-lightblue a:visited,
+.lightblue-text a:visited {
+   color: lightblue;
+}
+.lightblue-background,
+.background-lightblue {
+  background-color: lightblue;
+}
+
 
 .red,
 .text-red,
